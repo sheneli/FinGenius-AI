@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" errors="0" skipped="0">
+  <testsuite name="TC06 Navigation Tests" timestamp="2026-08-23T01:33:13" time="50.826" tests="6" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="TC06: Navigation Tests"/>
+      <property name="capabilities" value="android.emulator-5554"/>
+      <property name="file" value="file:///Users/shenelimunasinghe/Documents/MSC%20IT%20/Mobile%20App/FinGenius%20/fingenius_ai/appium-tests/test/specs/06-navigation.spec.ts"/>
+    </properties>
+    <testcase classname="android.emulator-5554.TC06:_Navigation_Tests" name="TC022 Should navigate to Home tab" time="4.268">
+      <system-out><![CDATA[
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Home"}
+RESULT: {"using":"accessibility id","value":"Home"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Home"}
+RESULT: {"using":"accessibility id","value":"Home"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Net worth\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Net worth\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Net worth\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Net worth\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Net worth\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Net worth\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Net worth\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Net worth\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00bd00000016/displayed - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="android.emulator-5554.TC06:_Navigation_Tests" name="TC023 Should navigate to Activity tab" time="4.168">
+      <system-out><![CDATA[
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Activity"}
+RESULT: {"using":"accessibility id","value":"Activity"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Activity"}
+RESULT: {"using":"accessibility id","value":"Activity"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Activity\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b100000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b100000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"All\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"All\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"All\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"All\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"All\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"All\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-009100000016/displayed - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="android.emulator-5554.TC06:_Navigation_Tests" name="TC024 Should navigate to Plans tab" time="4.14">
+      <system-out><![CDATA[
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Plans"}
+RESULT: {"using":"accessibility id","value":"Plans"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Plans"}
+RESULT: {"using":"accessibility id","value":"Plans"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Plans\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b300000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b300000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Budget\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Budget\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Budget\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Budget\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Budget\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Budget\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Budget\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Budget\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00e200000016/displayed - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="android.emulator-5554.TC06:_Navigation_Tests" name="TC025 Should navigate to Profile tab" time="4.276">
+      <system-out><![CDATA[
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Profile"}
+RESULT: {"using":"accessibility id","value":"Profile"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Profile"}
+RESULT: {"using":"accessibility id","value":"Profile"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b400000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b400000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00f500000016/displayed - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="android.emulator-5554.TC06:_Navigation_Tests" name="TC026 Should navigate back using Android back button" time="8.248">
+      <system-out><![CDATA[
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Profile"}
+RESULT: {"using":"accessibility id","value":"Profile"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Profile"}
+RESULT: {"using":"accessibility id","value":"Profile"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00f500000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00f500000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Preferences\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00ff00000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Preferences\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00ff00000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00ff00000016/click - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/back - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Preferences\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Preferences\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Preferences\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00ff00000016/displayed - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+    <testcase classname="android.emulator-5554.TC06:_Navigation_Tests" name="TC027 All tab navigation should work without crashes" time="21.816">
+      <system-out><![CDATA[
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Home"}
+RESULT: {"using":"accessibility id","value":"Home"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Home"}
+RESULT: {"using":"accessibility id","value":"Home"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Activity"}
+RESULT: {"using":"accessibility id","value":"Activity"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Activity"}
+RESULT: {"using":"accessibility id","value":"Activity"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Activity\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Activity\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Activity\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b100000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b100000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Plans"}
+RESULT: {"using":"accessibility id","value":"Plans"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Plans"}
+RESULT: {"using":"accessibility id","value":"Plans"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Plans\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Plans\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Plans\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b300000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b300000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Profile"}
+RESULT: {"using":"accessibility id","value":"Profile"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Profile"}
+RESULT: {"using":"accessibility id","value":"Profile"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Profile\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Profile\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b400000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b400000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/appium/device/activate_app - {"appId":"com.msc.fingenius"}
+RESULT: {"appId":"com.msc.fingenius"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Home"}
+RESULT: {"using":"accessibility id","value":"Home"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"accessibility id","value":"Home"}
+RESULT: {"using":"accessibility id","value":"Home"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/displayed - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/click - {}
+RESULT: {}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().text(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().description(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().textContains(\"Home\")"}
+COMMAND: POST /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element - {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+RESULT: {"using":"-android uiautomator","value":"new UiSelector().descriptionContains(\"Home\")"}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/element/00000000-0000-02de-0000-00b000000016/displayed - {}
+RESULT: {}
+COMMAND: GET /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a/screenshot - {}
+RESULT: {}
+COMMAND: DELETE /session/41715d83-1a26-4c3a-8b80-9f671e3bbd4a - {}
+RESULT: {}
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Resource shrinking is enabled for release builds. It only keeps resources it
+  can see referenced from application code, which means a library that inflates
+  its *own* layouts and menus loses them.
+
+  uCrop did exactly that: `UCropActivity.onCreateOptionsMenu` inflated a menu
+  that had been shrunk away, returned null, and threw a NullPointerException
+  the moment the cropper opened — so every profile-photo upload crashed the app
+  in release while working fine in debug.
+
+  Keeping the whole ucrop_* family is deliberate: the library cross-references
+  its own layouts, drawables, styles and ids, so protecting only the menu would
+  just move the crash.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@menu/ucrop_menu_activity,
+                @layout/ucrop_*,
+                @drawable/ucrop_*,
+                @string/ucrop_*,
+                @style/ucrop_*,
+                @color/ucrop_*,
+                @dimen/ucrop_*,
+                @id/menu_crop,
+                @id/menu_loader"
+    tools:shrinkMode="safe" />

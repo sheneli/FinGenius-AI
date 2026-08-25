@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <!--
+    Runs the app the way it actually ships: AOT-compiled, no JIT kernel blob and
+    no Vulkan validation layer.
+
+    The default "main.dart" configuration has no build-mode argument, so the Run
+    button produces a DEBUG build. On a mid-range device that measured ~10s to
+    first frame versus ~0.2s for this one, because a debug APK carries ~91MB of
+    Dart bytecode to extract and JIT, plus a validation layer that checks every
+    GPU call.
+
+    Use the default config for day-to-day work — it gives hot reload, which this
+    one cannot. Use this one whenever judging speed, demoing, or submitting.
+  -->
+  <configuration default="false" name="main.dart (release)" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+    <option name="additionalArgs" value="--release" />
+    <method v="2" />
+  </configuration>
+</component>

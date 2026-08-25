@@ -1,0 +1,40 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.DS_Store
+coverage/
+dist/
+android/.gradle/
+android/local.properties
+android/key.properties
+*.keystore
+*.jks
+node_modules/
+# Firebase client config is committed intentionally for this academic project
+# (protection comes from Security Rules + App Check). For a public repo, remove:
+# android/app/google-services.json
+
+# AI provider secrets. Nothing here may ever be committed.
+# The OpenRouter key reaches the app only via --dart-define-from-file; copy
+# dart_defines.example.json to dart_defines.json and fill that in locally.
+dart_defines.json
+dart_defines.*.json
+!dart_defines.example.json
+.env
+.env.*
+# wrangler's local secret file, used by `npm run dev` in server/ai-proxy
+server/ai-proxy/.dev.vars
+
+# iCloud/Finder sync duplicates. This project lives in an iCloud-synced folder,
+# which periodically clones generated files and directories as "name 2",
+# "name 3". They are what caused repeated stale builds: Gradle's resource
+# merger chokes on the duplicated res/ entries, and the Dart incremental
+# compiler can pick up a stale copy. Delete them on sight — never commit them.
+* 2
+* 3
+* 2.*
+* 3.*

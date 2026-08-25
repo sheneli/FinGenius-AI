@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831615637192",
+    "project_id": "fingenius-app-6dfcc",
+    "storage_bucket": "fingenius-app-6dfcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831615637192:android:c120fc74f21368df0cb7fd",
+        "android_client_info": {
+          "package_name": "com.msc.fingenius"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLma7KUsOUNqC5CaGnZJBJzNu3jdzLA6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+import 'package:flutter/services.dart';
+import 'package:flutter/widgets.dart';
+
+/// Toggles Android FLAG_SECURE via MethodChannel (see MainActivity.kt).
+/// Wrap balance-revealing screens with [SecureScreen] to block screenshots
+/// and hide content in the recents switcher.
+///
+/// NOTE: FLAG_SECURE is currently DISABLED to allow screenshots and screen
+/// recording during the viva demonstration. To re-enable screenshot
+/// protection, uncomment the method-channel calls in [enable]/[disable]
+/// and in [_SecureScreenState.initState]/[dispose].
+class SecureScreenChannel {
+  static const _channel = MethodChannel('fingenius/secure_screen');
+
+  static Future<void> enable() async {
+    // Disabled for viva demonstration — screenshots & recording must work.
+    // To re-enable, uncomment the lines below:
+    // try {
+    //   await _channel.invokeMethod<bool>('enable');
+    // } on PlatformException {
+    //   // Non-fatal: continue without the flag (e.g. in tests).
+    // }
+  }
+
+  static Future<void> disable() async {
+    // Disabled for viva demonstration — screenshots & recording must work.
+    // To re-enable, uncomment the lines below:
+    // try {
+    //   await _channel.invokeMethod<bool>('disable');
+    // } on PlatformException {
+    //   // Non-fatal.
+    // }
+  }
+}
+
+class SecureScreen extends StatefulWidget {
+  const SecureScreen({super.key, required this.child});
+  final Widget child;
+
+  @override
+  State<SecureScreen> createState() => _SecureScreenState();
+}
+
+class _SecureScreenState extends State<SecureScreen> {
+  @override
+  void initState() {
+    super.initState();
+    // Disabled for viva — see SecureScreenChannel.enable() above.
+    // SecureScreenChannel.enable();
+  }
+
+  @override
+  void dispose() {
+    // Disabled for viva — see SecureScreenChannel.disable() above.
+    // SecureScreenChannel.disable();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) => widget.child;
+}

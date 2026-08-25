@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="FinGenius mascot">
+  <defs>
+    <linearGradient id="jar" x1="60" y1="220" x2="180" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6DBB3C"/><stop offset="1" stop-color="#D3F98A"/>
+    </linearGradient>
+  </defs>
+  <!-- coins behind -->
+  <circle cx="60" cy="196" r="16" fill="#F4C542"/>
+  <circle cx="184" cy="192" r="12" fill="#F4C542" opacity="0.85"/>
+  <!-- jar body -->
+  <path d="M72 96 h96 a12 12 0 0 1 12 12 v72 a28 28 0 0 1-28 28 H88 a28 28 0 0 1-28-28 v-72 a12 12 0 0 1 12-12 z" fill="url(#jar)"/>
+  <!-- jar lid -->
+  <rect x="66" y="76" width="108" height="24" rx="12" fill="#9BE15D"/>
+  <!-- coin dropping in -->
+  <circle cx="120" cy="52" r="18" fill="#F4C542"/>
+  <text x="120" y="59" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-weight="800" font-size="20" fill="#0A0F08">$</text>
+  <!-- face -->
+  <circle cx="102" cy="146" r="7" fill="#0A0F08"/>
+  <circle cx="140" cy="146" r="7" fill="#0A0F08"/>
+  <path d="M100 166 q20 18 42 0" stroke="#0A0F08" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- cheeks -->
+  <circle cx="88" cy="160" r="6" fill="#F4C542" opacity="0.55"/>
+  <circle cx="154" cy="160" r="6" fill="#F4C542" opacity="0.55"/>
+  <!-- arms -->
+  <path d="M60 130 q-22 14 -10 40" stroke="#0A0F08" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M180 130 q22 14 10 40" stroke="#0A0F08" stroke-width="7" fill="none" stroke-linecap="round"/>
+</svg>
