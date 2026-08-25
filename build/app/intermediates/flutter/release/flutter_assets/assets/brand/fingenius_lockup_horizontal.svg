@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 160" role="img" aria-label="FinGenius AI horizontal lockup">
+  <defs>
+    <linearGradient id="lime" x1="128" y1="346" x2="346" y2="166" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6DBB3C"/><stop offset="1" stop-color="#D3F98A"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8,8) scale(0.28125)">
+    
+    <path d="M128,346 L209,265 L270,313 L346,204" fill="none" stroke="url(#lime)" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M374.5,133 Q374.5,166 407.5,166 Q374.5,166 374.5,199 Q374.5,166 341.5,166 Q374.5,166 374.5,133 Z" fill="#F4C542"/>
+  </g>
+  <text x="180" y="105" font-family="Manrope, Arial, sans-serif" font-weight="800" font-size="72" fill="#FFFFFF" letter-spacing="-1">FinGenius<tspan fill="#D3F98A"> AI</tspan></text>
+</svg>

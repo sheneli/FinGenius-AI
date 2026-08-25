@@ -1,0 +1,90 @@
+com.msc.fingenius.app-jetified-firebase-messaging-24.1.2-0 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/006e9c6141defc79493dfe3c772efe6e/transformed/jetified-firebase-messaging-24.1.2/res
+com.msc.fingenius.app-jetified-savedstate-ktx-1.2.1-1 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/00fd60bb0c5730321e89dcea55ca497b/transformed/jetified-savedstate-ktx-1.2.1/res
+com.msc.fingenius.app-jetified-activity-1.10.1-2 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/0cdea5488bcbb9363eee4d963607acfb/transformed/jetified-activity-1.10.1/res
+com.msc.fingenius.app-jetified-credentials-1.2.0-rc01-3 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/1243588cb4a65cc8d3da580dcf3bac6c/transformed/jetified-credentials-1.2.0-rc01/res
+com.msc.fingenius.app-media-1.1.0-4 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/28b4c1adce5cbb5a08a5cdc58c4df7b4/transformed/media-1.1.0/res
+com.msc.fingenius.app-jetified-lifecycle-runtime-ktx-2.7.0-5 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/2a732491d80efdfd8bdb172c7a71e498/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.msc.fingenius.app-jetified-emoji2-views-helper-1.2.0-6 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/2ad23481267b0885316914f2d484698a/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.msc.fingenius.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-7 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/37dbf3bd95b6cb0e53119b7891c68988/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.msc.fingenius.app-biometric-1.1.0-8 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/3fb45526860082c086d003f82364ffc3/transformed/biometric-1.1.0/res
+com.msc.fingenius.app-jetified-lifecycle-process-2.7.0-9 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/419a2b1c522e2c927b98b9cd6c87b840/transformed/jetified-lifecycle-process-2.7.0/res
+com.msc.fingenius.app-jetified-security-crypto-1.1.0-alpha06-10 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/4bb7580bc87fc96b91c3f366f62404d0/transformed/jetified-security-crypto-1.1.0-alpha06/res
+com.msc.fingenius.app-browser-1.4.0-11 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/4fe41664fcaf87d6a6ca41ac5bb9d20f/transformed/browser-1.4.0/res
+com.msc.fingenius.app-jetified-core-1.0.0-12 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/52c5b515686643090a4d8bfa1c609b2e/transformed/jetified-core-1.0.0/res
+com.msc.fingenius.app-jetified-annotation-experimental-1.4.0-13 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/5d0ed06a82013faa7f9acab9a2e6c302/transformed/jetified-annotation-experimental-1.4.0/res
+com.msc.fingenius.app-recyclerview-1.0.0-14 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/6113ba1bb7d39cc86e65dec2ffdbc8c8/transformed/recyclerview-1.0.0/res
+com.msc.fingenius.app-jetified-ads-adservices-java-1.1.0-beta11-15 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/6b9306bf804de92647b9aa7005e5ccda/transformed/jetified-ads-adservices-java-1.1.0-beta11/res
+com.msc.fingenius.app-jetified-profileinstaller-1.4.0-16 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/76a91384a472c63bc72409101f080d64/transformed/jetified-profileinstaller-1.4.0/res
+com.msc.fingenius.app-jetified-datastore-release-17 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/7c6062a6f0e3104c701c152ea1fcb4cd/transformed/jetified-datastore-release/res
+com.msc.fingenius.app-jetified-credentials-play-services-auth-1.2.0-rc01-18 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/7e2210b6056fae46571a3c0713db129d/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/res
+com.msc.fingenius.app-core-runtime-2.2.0-19 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/7f33cdac8b172d293d176c5f22f03569/transformed/core-runtime-2.2.0/res
+com.msc.fingenius.app-jetified-appcompat-resources-1.6.1-20 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/80d0bf21cfed9ba34a0fb1fbab163f97/transformed/jetified-appcompat-resources-1.6.1/res
+com.msc.fingenius.app-jetified-startup-runtime-1.1.1-21 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/89d5930e3554972e8d23564179d3d822/transformed/jetified-startup-runtime-1.1.1/res
+com.msc.fingenius.app-slidingpanelayout-1.2.0-22 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/8cca4746333552e897d611aa9277f7cc/transformed/slidingpanelayout-1.2.0/res
+com.msc.fingenius.app-jetified-play-services-base-18.5.0-23 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/9318597680b60c240f3ac94ee2ea16c7/transformed/jetified-play-services-base-18.5.0/res
+com.msc.fingenius.app-jetified-play-services-auth-20.7.0-24 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/9a01d1120e9db717ff53be8dae36630e/transformed/jetified-play-services-auth-20.7.0/res
+com.msc.fingenius.app-transition-1.4.1-25 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/a0caadd14d34da6cf6344dbcb6e40c8d/transformed/transition-1.4.1/res
+com.msc.fingenius.app-lifecycle-runtime-2.7.0-26 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/a3012c5a33f5b12285735aa44d8b36d6/transformed/lifecycle-runtime-2.7.0/res
+com.msc.fingenius.app-jetified-lifecycle-viewmodel-ktx-2.7.0-27 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/a701ea0630fb5c244edd4baa2efbdfef/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.msc.fingenius.app-jetified-activity-ktx-1.10.1-28 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/a81f608b184edf1595cd54df1766ccaa/transformed/jetified-activity-ktx-1.10.1/res
+com.msc.fingenius.app-jetified-play-services-basement-18.5.0-29 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/ac1a629c9c47d80f2e093baee33910d9/transformed/jetified-play-services-basement-18.5.0/res
+com.msc.fingenius.app-jetified-ucrop-2.2.10-30 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/ac34575b63ccff6436b5d866ced48210/transformed/jetified-ucrop-2.2.10/res
+com.msc.fingenius.app-fragment-1.8.8-31 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b069306e8c4740a4c9d4883b016de223/transformed/fragment-1.8.8/res
+com.msc.fingenius.app-lifecycle-livedata-2.7.0-32 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b0d7cbb4dea6046a97c83dbb082d67d3/transformed/lifecycle-livedata-2.7.0/res
+com.msc.fingenius.app-jetified-core-ktx-1.13.1-33 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b2d0f7dc4c315f63f94b9be883300526/transformed/jetified-core-ktx-1.13.1/res
+com.msc.fingenius.app-jetified-datastore-preferences-release-34 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b570a29ea5793b33162a54b91336c80c/transformed/jetified-datastore-preferences-release/res
+com.msc.fingenius.app-lifecycle-livedata-core-2.7.0-35 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b7d94be6346a4e6aeaad2d0302733d0c/transformed/lifecycle-livedata-core-2.7.0/res
+com.msc.fingenius.app-jetified-window-java-1.2.0-36 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b8010391e3f5007a9f45b1c44419fb4b/transformed/jetified-window-java-1.2.0/res
+com.msc.fingenius.app-jetified-window-1.2.0-37 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/b881740462a1b21150d61d91274d8fae/transformed/jetified-window-1.2.0/res
+com.msc.fingenius.app-jetified-tracing-1.2.0-38 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/c1b283fa2dc2725e82c1228d0c413830/transformed/jetified-tracing-1.2.0/res
+com.msc.fingenius.app-appcompat-1.6.1-39 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/c737338fbbcf03df8dca35f855e21368/transformed/appcompat-1.6.1/res
+com.msc.fingenius.app-jetified-savedstate-1.2.1-40 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/c93fb9f3002c9dfc5b0e8e6874c647bf/transformed/jetified-savedstate-1.2.1/res
+com.msc.fingenius.app-jetified-core-viewtree-1.0.0-41 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/cfae180a24d316dc0b306a19986e858a/transformed/jetified-core-viewtree-1.0.0/res
+com.msc.fingenius.app-jetified-emoji2-1.2.0-42 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/d7495aebe62101e6b1df6c84890d8a8a/transformed/jetified-emoji2-1.2.0/res
+com.msc.fingenius.app-localbroadcastmanager-1.1.0-43 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/d9cb6019bb3bcd04046a5a4e0519895e/transformed/localbroadcastmanager-1.1.0/res
+com.msc.fingenius.app-lifecycle-viewmodel-2.7.0-44 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/df134057425d38484dc2861a1752d53e/transformed/lifecycle-viewmodel-2.7.0/res
+com.msc.fingenius.app-jetified-firebase-crashlytics-19.4.4-45 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/e251fdc7130d43ac46f11f511318fa95/transformed/jetified-firebase-crashlytics-19.4.4/res
+com.msc.fingenius.app-jetified-lifecycle-livedata-core-ktx-2.7.0-46 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/e3b9311f272a28278419d9d29f0e479a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.msc.fingenius.app-jetified-core-common-2.0.3-47 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/e4515086a6c4904e0e8bc4fd637b4a9f/transformed/jetified-core-common-2.0.3/res
+com.msc.fingenius.app-coordinatorlayout-1.0.0-48 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/e4c9f066342db39eb290ff821777b346/transformed/coordinatorlayout-1.0.0/res
+com.msc.fingenius.app-core-1.13.1-49 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/e9db36d168473984a77c97a220c934d2/transformed/core-1.13.1/res
+com.msc.fingenius.app-jetified-fragment-ktx-1.8.8-50 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/ebf7db548041628116feecbb2a6dfe8f/transformed/jetified-fragment-ktx-1.8.8/res
+com.msc.fingenius.app-jetified-ads-adservices-1.1.0-beta11-51 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/f3a7aedfd25307a7ce414f6d0254677a/transformed/jetified-ads-adservices-1.1.0-beta11/res
+com.msc.fingenius.app-jetified-datastore-core-release-52 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/f4251538e246eb66afa5ac72ce1484ba/transformed/jetified-datastore-core-release/res
+com.msc.fingenius.app-preference-1.2.1-53 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/f83b6d0308ff68276467a612e97efd33/transformed/preference-1.2.1/res
+com.msc.fingenius.app-jetified-firebase-common-21.0.0-54 /Users/shenelimunasinghe/.gradle/caches/8.10.2/transforms/f8f0e0fcfa2c2129243c8eb4d1d4e838/transformed/jetified-firebase-common-21.0.0/res
+com.msc.fingenius.app-main-55 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/android/app/src/main/res
+com.msc.fingenius.app-release-56 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/android/app/src/release/res
+com.msc.fingenius.app-res-57 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/generated/res/injectCrashlyticsMappingFileIdRelease
+com.msc.fingenius.app-pngs-58 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/generated/res/pngs/release
+com.msc.fingenius.app-res-59 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/generated/res/processReleaseGoogleServices
+com.msc.fingenius.app-resValues-60 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/generated/res/resValues/release
+com.msc.fingenius.app-packageReleaseResources-61 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.msc.fingenius.app-packageReleaseResources-62 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.msc.fingenius.app-release-63 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/app/intermediates/merged_res/release/mergeReleaseResources
+com.msc.fingenius.app-release-64 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/cloud_firestore/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-65 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/connectivity_plus/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-66 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_analytics/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-67 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_app_check/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-68 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_auth/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-69 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_core/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-70 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_crashlytics/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-71 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_messaging/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-72 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_remote_config/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-73 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/firebase_storage/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-74 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/flutter_image_compress_common/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-75 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/flutter_local_notifications/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-76 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-77 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/flutter_secure_storage/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-78 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/flutter_tts/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-79 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/google_mlkit_commons/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-80 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/google_mlkit_text_recognition/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-81 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/image_cropper/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-82 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/image_picker_android/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-83 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/integration_test/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-84 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/local_auth_android/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-85 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/path_provider_android/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-86 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/permission_handler_android/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-87 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/share_plus/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-88 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/speech_to_text/intermediates/packaged_res/release/packageReleaseResources
+com.msc.fingenius.app-release-89 /Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/build/sqflite_android/intermediates/packaged_res/release/packageReleaseResources

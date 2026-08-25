@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.msc.fingenius.app-mergeReleaseResources-61:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/shenelimunasinghe/Documents/MSC IT /Mobile App/FinGenius /fingenius_ai/android/app/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "630"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "416"
+                    }
+                }
+            ]
+        }
+    ]
+}

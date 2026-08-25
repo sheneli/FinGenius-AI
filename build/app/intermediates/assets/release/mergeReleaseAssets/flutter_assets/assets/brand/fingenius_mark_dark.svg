@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="FinGenius AI mark on dark">
+  <defs>
+    <linearGradient id="badge" x1="40" y1="40" x2="472" y2="472" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16240F"/>
+      <stop offset="1" stop-color="#080C06"/>
+    </linearGradient>
+    <linearGradient id="lime" x1="128" y1="346" x2="346" y2="166" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6DBB3C"/>
+      <stop offset="1" stop-color="#D3F98A"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="40" width="432" height="432" rx="116" fill="url(#badge)"/>
+  <path d="M128,346 L209,265 L270,313 L346,204" fill="none" stroke="url(#lime)" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M374.5,133 Q374.5,166 407.5,166 Q374.5,166 374.5,199 Q374.5,166 341.5,166 Q374.5,166 374.5,133 Z" fill="#F4C542"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFFFF">
+    <!-- Status-bar icon: flat silhouette of the Ascend mark -->
+    <path
+        android:pathData="M4,17.5 L10,11.5 L14,15 L19.5,8.5"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#FFFFFFFF"/>
+    <path
+        android:pathData="M20,3.5 Q20,6 22.5,6 Q20,6 20,8.5 Q20,6 17.5,6 Q20,6 20,3.5 Z"
+        android:fillColor="#FFFFFFFF"/>
+</vector>

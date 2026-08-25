@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">831615637192</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLma7KUsOUNqC5CaGnZJBJzNu3jdzLA6o</string>
+    <string name="google_app_id" translatable="false">1:831615637192:android:c120fc74f21368df0cb7fd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLma7KUsOUNqC5CaGnZJBJzNu3jdzLA6o</string>
+    <string name="google_storage_bucket" translatable="false">fingenius-app-6dfcc.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fingenius-app-6dfcc</string>
+</resources>

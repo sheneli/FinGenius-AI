@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/drawable-xxhdpi_splash_logo.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/drawable-xxhdpi/splash_logo.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/raw_keep.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/raw/keep.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/drawable_ic_stat_fingenius.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/drawable/ic_stat_fingenius.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/drawable_launch_background.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "com.msc.fingenius.app-main-55:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "com.msc.fingenius.app-release-63:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.msc.fingenius.app-main-55:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
